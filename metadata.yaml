@@ -1,0 +1,41 @@
+_repo: The-Stoker-and-the-Stars_22967
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Van Dongen, H. R.
+    aliases:
+    - Dongen, van
+    - Dongen, H. R. Van
+    - Van Dongen, Henry Richard
+    birthdate: 1920
+    deathdate: 2010
+    gutenberg_agent_id: '26301'
+    url: http://www.gutenberg.org/2009/agents/26301
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Budrys, Algis
+    alias: Budrys, Algirdas Jonas
+    birthdate: 1931
+    deathdate: 2008
+    gutenberg_agent_id: '25613'
+    url: http://www.gutenberg.org/2009/agents/25613
+    wikipedia: http://en.wikipedia.org/wiki/Algis_Budrys
+description: Cover; Title Page; Copyright Page; The Stoker and the Stars.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22967'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+title: The Stoker and the Stars
+url: http://www.gutenberg.org/ebooks/22967
