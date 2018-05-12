@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25613
     wikipedia: http://en.wikipedia.org/wiki/Algis_Budrys
 description: Cover; Title Page; Copyright Page; The Stoker and the Stars.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22967#The-Stoker-and-the-Stars
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-10-12'
 gutenberg_type: Text
